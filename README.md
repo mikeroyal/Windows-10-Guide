@@ -174,7 +174,7 @@
 
 [If you would like to Donate to the Blender Project](https://fund.blender.org/)
 
-<img src="https://user-images.githubusercontent.com/45159366/110989377-a975d600-8326-11eb-832b-ad76508019cf.png">
+<img src="https://user-images.githubusercontent.com/45159366/110990485-3ec59a00-8328-11eb-8eb1-5502eb2eb74e.png">
 
 
 [Unigine](https://unigine.com) is a cross-platform game engine designed for development teams (C++/C# programmers, 3D artists) working on interactive 3D apps.
