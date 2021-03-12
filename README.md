@@ -10,37 +10,37 @@
 
 # Table of Contents
 
-1. [Getting Started](https://github.com/mikeroyal/Winsow-10-Guide/blob/main/README.md#getting-started)
+1. [Getting Started](https://github.com/mikeroyal/Windows-10-Guide/blob/main/README.md#getting-started)
 
-2. [Getting Software](https://github.com/mikeroyal/Winsow-10-Guide/blob/main/README.md#getting-software)
+2. [Getting Software](https://github.com/mikeroyal/Windows-10-Guide/blob/main/README.md#getting-software)
 
-3. [Gaming](https://github.com/mikeroyal/Winsow-10-Guide/blob/main/README.md#gaming)
+3. [Gaming](https://github.com/mikeroyal/Windows-10-Guide/blob/main/README.md#gaming)
 
-4. [Game Development](https://github.com/mikeroyal/Winsow-10-Guide/blob/main/README.md#game-development)
+4. [Game Development](https://github.com/mikeroyal/Windows-10-Guide/blob/main/README.md#game-development)
 
-5. [Setting up a macOS Workspace](https://github.com/mikeroyal/Winsow-10-Guide/blob/main/README.md#setting-up-a-windows-10-workspace)
+5. [Setting up a macOS Workspace](https://github.com/mikeroyal/Windows-10-Guide/blob/main/README.md#setting-up-a-windows-10-workspace)
 
-6. [Using Android and Android Apps on Windows 10](https://github.com/mikeroyal/Winsow-10-Guide/blob/main/README.md#using-android-and-android-apps-on-windows-10)
+6. [Using Android and Android Apps on Windows 10](https://github.com/mikeroyal/Windows-10-Guide/blob/main/README.md#using-android-and-android-apps-on-windows-10)
 
-7. [Professional Audio/Video Editing](https://github.com/mikeroyal/Winsow-10-Guide/blob/main/README.md#professional-audio--video-editing)
+7. [Professional Audio/Video Editing](https://github.com/mikeroyal/Windows-10-Guide/blob/main/README.md#professional-audio--video-editing)
 
-8. [Kubernetes](https://github.com/mikeroyal/Winsow-10-Guide/blob/main/README.md#kubernetes)
+8. [Kubernetes](https://github.com/mikeroyal/Windows-10-Guide/blob/main/README.md#kubernetes)
 
-9. [Machine Learning](https://github.com/mikeroyal/Winsow-10-Guide/blob/main/README.md#machine-learning)
+9. [Machine Learning](https://github.com/mikeroyal/Windows-10-Guide/blob/main/README.md#machine-learning)
 
-10. [Robotics](https://github.com/mikeroyal/Winsow-10-Guide/blob/main/README.md#robotics)
+10. [Robotics](https://github.com/mikeroyal/Windows-10-Guide/blob/main/README.md#robotics)
 
-11. [Open Source Security](https://github.com/mikeroyal/Winsow-10-Guide/blob/main/README.md#open-source-security)
+11. [Open Source Security](https://github.com/mikeroyal/Windows-10-Guide/blob/main/README.md#open-source-security)
 
-12. [Differential Privacy](https://github.com/mikeroyal/Winsow-10-Guide/blob/main/README.md#differential-privacy)
+12. [Differential Privacy](https://github.com/mikeroyal/Windows-10-Guide/blob/main/README.md#differential-privacy)
 
-13. [DevOps](https://github.com/mikeroyal/Winsow-10-Guide/blob/main/README.md#devops)
+13. [DevOps](https://github.com/mikeroyal/Windows-10-Guide/blob/main/README.md#devops)
 
-14. [Windows Subsystem for Linux (WSL)](https://github.com/mikeroyal/Winsow-10-Guide/blob/main/README.md#)
+14. [Windows Subsystem for Linux (WSL)](https://github.com/mikeroyal/Windows-10-Guide/blob/main/README.md#)
 
-15. [.NET Development](https://github.com/mikeroyal/Winsow-10-Guide/blob/main/README.md#.net-development)
+15. [.NET Development](https://github.com/mikeroyal/Windows-10-Guide/blob/main/README.md#.net-development)
 
-16. [Flutter Development](https://github.com/mikeroyal/Winsow-10-Guide/blob/main/README.md#flutter-development)
+16. [Flutter Development](https://github.com/mikeroyal/Windows-10-Guide/blob/main/README.md#flutter-development)
 
 # Getting Started
 
