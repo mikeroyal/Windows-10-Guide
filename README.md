@@ -18,7 +18,7 @@
 
 4. [Game Development](https://github.com/mikeroyal/Windows-10-Guide/blob/main/README.md#game-development)
 
-5. [Setting up a macOS Workspace](https://github.com/mikeroyal/Windows-10-Guide/blob/main/README.md#setting-up-a-windows-10-workspace)
+5. [Setting up a macOS Workspace](https://github.com/mikeroyal/Windows-10-Guide/blob/main/README.md#setting-up-a-macos-workspace)
 
 6. [Using Android and Android Apps on Windows 10](https://github.com/mikeroyal/Windows-10-Guide/blob/main/README.md#using-android-and-android-apps-on-windows-10)
 
