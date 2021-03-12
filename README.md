@@ -36,9 +36,9 @@
 
 13. [DevOps](https://github.com/mikeroyal/Windows-10-Guide/blob/main/README.md#devops)
 
-14. [Windows Subsystem for Linux (WSL)](https://github.com/mikeroyal/Windows-10-Guide/blob/main/README.md#)
+14. [Windows Subsystem for Linux (WSL)](https://github.com/mikeroyal/Windows-10-Guide/blob/main/README.md#windows-subsystem-for-linux-wsl)
 
-15. [.NET Development](https://github.com/mikeroyal/Windows-10-Guide/blob/main/README.md#.net-development)
+15. [.NET Development](https://github.com/mikeroyal/Windows-10-Guide/blob/main/README.md#net-development)
 
 16. [Flutter Development](https://github.com/mikeroyal/Windows-10-Guide/blob/main/README.md#flutter-development)
 
