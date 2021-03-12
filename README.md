@@ -59,7 +59,7 @@
   Windows 10X Desktop
 </h3>
 
-# Getting Sofware
+# Getting Software
 
 [Back to the Top](https://github.com/mikeroyal/Windows-10-Guide/blob/main/README.md#table-of-contents)
 
@@ -83,17 +83,9 @@
 
 [Windows Store](https://www.microsoft.com/en-us/store/apps/windows)
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/45159366/110880127-f9a35880-8292-11eb-91a5-6d74f4446d14.png">
-<br />
+ <img src="https://user-images.githubusercontent.com/45159366/110880127-f9a35880-8292-11eb-91a5-6d74f4446d14.png">
+ <img src="https://user-images.githubusercontent.com/45159366/110880130-fa3bef00-8292-11eb-9565-b6b90c9b32a5.png">
 
-</p>
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/45159366/110880130-fa3bef00-8292-11eb-9565-b6b90c9b32a5.png">
-<br />
-
-</p>
 
 
 # Gaming
