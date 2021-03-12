@@ -174,7 +174,7 @@
 
 [If you would like to Donate to the Blender Project](https://fund.blender.org/)
 
-<img src="https://user-images.githubusercontent.com/45159366/110881500-4f790000-8295-11eb-9c38-e7f6330ec991.png">
+<img src="https://user-images.githubusercontent.com/45159366/110989377-a975d600-8326-11eb-832b-ad76508019cf.png">
 
 
 [Unigine](https://unigine.com) is a cross-platform game engine designed for development teams (C++/C# programmers, 3D artists) working on interactive 3D apps.
@@ -365,6 +365,8 @@ Local virtual devices with high performances.
 [Shotcut](https://www.shotcut.org/) is an open source multi-platform video editor. You can perform various actions such as video editing (including 4K video quality), add effects, create new movies, import most image files formats, export to almost any file format and much more.
 
 [Olive](https://www.olivevideoeditor.org) is a free non-linear video editor aiming to provide a fully-featured alternative to high-end professional video editing software.
+
+[Natron](https://natrongithub.github.io/) is a powerful Digital Compositor that can handle all of your 2D/2.5D needs. Its robust OIIO file formats and OpenFX architecture is what make Natron the most flexible open source compositor for the visual effects community. Its interface and functionally are the same across all platforms such as MacOS, Linux and Windows.
 
 [OBS (Open Broadcaster Software)](https://obsproject.com/) is free and open source software for video recording and live streaming. Stream to Twitch, YouTube and many other providers or record your own videos with high quality H264 / AAC encoding.
 
