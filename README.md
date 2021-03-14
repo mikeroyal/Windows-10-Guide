@@ -63,6 +63,16 @@
 
 [Back to the Top](https://github.com/mikeroyal/Windows-10-Guide/blob/main/README.md#table-of-contents)
 
+
+[Microsoft Store](https://www.microsoft.com/en-us/store/apps/windows)
+
+[Top free apps in Microsoft Store](https://www.microsoft.com/en-us/store/top-free/apps/pc)
+
+[Top paid apps in Microsoft Store](https://www.microsoft.com/en-us/store/top-paid/apps/pc)
+
+ <img src="https://user-images.githubusercontent.com/45159366/111085833-66f2fb80-84d6-11eb-8a86-3929452b281e.png">
+ 
+
 [Ninite](https://ninite.com/) is a package management system offering that enables users automatically install popular applications for their Windows 10 OS.
 
 <p align="center">
@@ -79,13 +89,6 @@
 <br />
 
 </p>
-
-
-[Windows Store](https://www.microsoft.com/en-us/store/apps/windows)
-
- <img src="https://user-images.githubusercontent.com/45159366/110880127-f9a35880-8292-11eb-91a5-6d74f4446d14.png">
- <img src="https://user-images.githubusercontent.com/45159366/110880130-fa3bef00-8292-11eb-9565-b6b90c9b32a5.png">
-
 
 
 # Gaming
@@ -204,7 +207,9 @@
 
 [OpenGL Shading Language(GLSL)](https://www.khronos.org/opengl/wiki/Core_Language_(GLSL)) is a High Level Shading Language based on the C-style language, so it covers most of the features a user would expect with such a language.  Such as control structures (for-loops, if-else statements, etc) exist in GLSL, including the switch statement.
 
-[High Level Shading Language(HLSL)](https://docs.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl) is the High Level Shading Language for DirectX. Using HLSL, the user can create C-like programmable shaders for the Direct3D pipeline. HLSL was first created with DirectX 9 to set up the programmable 3D pipeline. 
+[High Level Shading Language(HLSL)](https://docs.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl) is the High Level Shading Language for DirectX. Using HLSL, the user can create C-like programmable shaders for the Direct3D pipeline. HLSL was first created with DirectX 9 to set up the programmable 3D pipeline.
+
+[DirectX 12 Ultimate](https://github.com/Microsoft/DirectX-Graphics-Samples) is an API(for high performance 2D & 3D graphics) from Microsoft. DirectX 12 Ultimate brings support for ray tracing, mesh shaders, variable rate shading, and sampler feedback. Available in Windows 2004 version(May 2020 Update).
 
 [Vulkan](https://www.khronos.org/vulkan/) is a modern cross-platform graphics and compute API that provides high-efficiency, cross-platform access to modern GPUs used in a wide variety of devices from PCs and consoles to mobile phones and embedded platforms. Vulkan is currently in development by the Khronos consortium. 
 
@@ -212,7 +217,15 @@
 
 [MoltenGL](https://moltengl.com) is an implementation of the OpenGL ES 2.0 API that runs on Apple's [Metal](https://developer.apple.com/metal/) graphics framework.
 
+[AMD Radeon ProRender](https://www.amd.com/en/technologies/radeon-prorender) is a powerful physically-based rendering engine that enables creative professionals to produce stunningly photorealistic images on virtually any GPU, any CPU, and any OS in over a dozen leading digital content creation and CAD applications.
+
 [NVIDIA Omniverse](https://developer.nvidia.com/nvidia-omniverse-platform) is a powerful, multi-GPU, real-time simulation and collaboration platform for 3D production pipelines based on Pixar's Universal Scene Description and NVIDIA RTX.
+
+[LibGDX](https://github.com/libgdx/libgdx) is a cross-platform Java game development framework based on OpenGL (ES) that works on Windows, Linux, Mac OS X, Android, your WebGL enabled browser and iOS.
+
+[cocos2d-x](https://github.com/cocos2d/cocos2d-x) is a multi-platform framework for building 2d games, interactive books, demos and other graphical applications. It is based on cocos2d-iphone, but instead of using Objective-C, it uses C++. It works on iOS, Android, macOS, Windows and Linux.
+
+[MonoGame](https://github.com/MonoGame/MonoGame) is a framework for creating powerful cross-platform games. The spiritual successor to XNA with thousands of titles shipped across desktop, mobile, and console platforms. MonoGame is a fully managed .NET open source game framework without any black boxes.
 
 [HGIG](https://www.hgig.org/) is a volunteer group of companies from the game and TV display industries that meet to specify and make available for the public guidelines to improve consumer gaming experiences in HDR.
 
@@ -259,6 +272,10 @@ SteamVR Home
 [Unity Certifications](https://unity.com/products/unity-certifications)
 
 [Getting Started with Vulkan](https://www.khronos.org/vulkan/)
+
+[Autodesk for Games](https://www.autodesk.com/campaigns/autodesk-for-games)
+
+[Getting Started with DirectX 12 Ultimate](https://devblogs.microsoft.com/directx/directx-12-ultimate-getting-started-guide/)
 
 [Game Design Online Courses from Udemy](https://www.udemy.com/courses/Design/Game-Design/)
 
