@@ -72,7 +72,7 @@
 
  <img src="https://user-images.githubusercontent.com/45159366/111085833-66f2fb80-84d6-11eb-8a86-3929452b281e.png">
  
-[Microsoft PowerToys](https://github.com/microsoft/PowerToys) is a set of utilities for power users to tune and streamline their Windows 10 experience for greater productivity. For more info on [PowerToys](https://docs.microsoft.com/windows/powertoys/), or any other tools and resources for [Windows development environments](https://docs.microsoft.com/windows/dev-environment/overview).
+[Microsoft PowerToys](https://github.com/microsoft/PowerToys) is a set of utilities for power users to tune and streamline their Windows 10 experience for greater productivity. To get more information on [PowerToys](https://docs.microsoft.com/windows/powertoys/), or any other tools and resources for [Windows development environments](https://docs.microsoft.com/windows/dev-environment/overview), go to [docs.microsoft.com](https://docs.microsoft.com/windows/powertoys/).
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/111210946-17223c00-858b-11eb-90c1-be411aab7107.png">
