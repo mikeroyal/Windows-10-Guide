@@ -48,6 +48,12 @@
 
 [Windows Media Creation tool](https://www.microsoft.com/software-download/windows10) is a tool to create installation media (USB flash drive, DVD, or ISO file) to install Windows 10 on a different PC (click to show more or less information) Follow these steps to create installation media (USB flash drive or DVD) you can use to install a new copy of Windows 10, perform a clean installation, or reinstall Windows 10.
 
+[Microsoft Windows Server](https://www.microsoft.com/en-us/windows-server/) is the operating system that connects on-premises environments with [Azure](https://azure.microsoft.com), adding additional layers of security while helping you modernize your applications and infrastructure.
+
+[Windows as a Service (WaaS)](https://docs.microsoft.com/en-us/windows/deployment/update/waas-overview) is a new development concept, introduced with the release of Windows 10. It simplifies the lives of IT professionals and maintains a consistent Windows 10 experience for all Windows customers. These improvements primarily focus on maximizing customer involvement in Windows development, simplifying the deployment and servicing of Windows client computers, and leveling out the resources needed to deploy and maintain Windows over time.
+
+[Microsoft Azure](https://azure.microsoft.com) is a public cloud computing platform that comes with solutions developed by Microsoft including Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Windows as a Service (WaaS), and Software as a Service (SaaS) that can be used for services such as analytics, virtual computing, storage, networking, and security.
+
 
 <h3 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/109593441-d4aa2b00-7ac5-11eb-87f6-d88772c2ac9f.png">
@@ -107,6 +113,11 @@
  
  <img src="https://user-images.githubusercontent.com/45159366/106686402-13100100-657f-11eb-9012-6bdac264a808.png">
 
+[Epic Games Store](https://www.epicgames.com/store/) is a digital video game storefront for Microsoft Windows and macOS, operated by Epic Games. 
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/111918016-3fed7a00-8a40-11eb-964e-930c801c1c72.png">
+</p>
 
 ## Game Streaming
 
