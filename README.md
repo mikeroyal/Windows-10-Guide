@@ -91,11 +91,6 @@
 
 **[Submitting packages to Windows Package Manager](https://docs.microsoft.com/en-us/windows/package-manager/package/)**
 
-<p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/115158808-ed09e100-a044-11eb-90e8-83ed9fca5391.gif">
-  <br />
-</p>
-
 [Microsoft PowerToys](https://github.com/microsoft/PowerToys) is a set of utilities for power users to tune and streamline their Windows 10 experience for greater productivity. To get more information on [PowerToys](https://docs.microsoft.com/windows/powertoys/), or any other tools and resources for [Windows development environments](https://docs.microsoft.com/windows/dev-environment/overview), go to [docs.microsoft.com](https://docs.microsoft.com/windows/powertoys/).
 
 <p align="center">
