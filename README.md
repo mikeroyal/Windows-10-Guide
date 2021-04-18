@@ -77,6 +77,22 @@
 
 [Back to the Top](https://github.com/mikeroyal/Windows-10-Guide/blob/main/README.md#table-of-contents)
 
+[Windows Package Manager (preview)](https://docs.microsoft.com/en-us/windows/package-manager/) is a comprehensive [package manager solution](https://docs.microsoft.com/en-us/windows/package-manager/#understanding-package-managers) that consists of a command line tool and set of services for installing applications on Windows 10. Developers can use the winget command line tool to discover, install, upgrade, remove and configure a curated set of applications. After it is installed, developers can access winget via the [Windows Terminal](https://docs.microsoft.com/en-us/windows/terminal/), [PowerShell](https://docs.microsoft.com/en-us/powershell/), or the Command Prompt.
+
+**[Using the winget tool to install and manage software packages](https://docs.microsoft.com/en-us/windows/package-manager/winget/)**
+
+**[Submitting packages to Windows Package Manager](https://docs.microsoft.com/en-us/windows/package-manager/package/)**
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/115158808-ed09e100-a044-11eb-90e8-83ed9fca5391.gif">
+  <br />
+</p>
+
+[Microsoft PowerToys](https://github.com/microsoft/PowerToys) is a set of utilities for power users to tune and streamline their Windows 10 experience for greater productivity. To get more information on [PowerToys](https://docs.microsoft.com/windows/powertoys/), or any other tools and resources for [Windows development environments](https://docs.microsoft.com/windows/dev-environment/overview), go to [docs.microsoft.com](https://docs.microsoft.com/windows/powertoys/).
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/111210946-17223c00-858b-11eb-90c1-be411aab7107.png">
+</p>
 
 [Microsoft Store](https://www.microsoft.com/en-us/store/apps/windows)
 
@@ -85,13 +101,13 @@
 [Top paid apps in Microsoft Store](https://www.microsoft.com/en-us/store/top-paid/apps/pc)
 
  <img src="https://user-images.githubusercontent.com/45159366/111085833-66f2fb80-84d6-11eb-8a86-3929452b281e.png">
- 
-[Microsoft PowerToys](https://github.com/microsoft/PowerToys) is a set of utilities for power users to tune and streamline their Windows 10 experience for greater productivity. To get more information on [PowerToys](https://docs.microsoft.com/windows/powertoys/), or any other tools and resources for [Windows development environments](https://docs.microsoft.com/windows/dev-environment/overview), go to [docs.microsoft.com](https://docs.microsoft.com/windows/powertoys/).
+
+[Homebrew](https://brew.sh) is the missing Package Manager for your macOS, Linux, and Windows 10 (with [Windows Subsystem for Linux (WSL)](https://docs.microsoft.com/en-us/windows/wsl/)) system. Homebrew is an essential tool for any developer/engineer.
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/111210946-17223c00-858b-11eb-90c1-be411aab7107.png">
+ <img src="https://user-images.githubusercontent.com/45159366/115158810-ee3b0e00-a044-11eb-98b4-3c0dc35ff972.png">
+  <br />
 </p>
-
 
 [Ninite](https://ninite.com/) is a package management system offering that enables users automatically install popular applications for their Windows 10 OS.
 
@@ -101,6 +117,12 @@
 
 </p>
 
+[Ninite Pro](https://ninite.com/pro) is the commercially-licensed version of Ninite. It will update/deploy more apps and popular plugins than the free home-use version. Other functionalities include Ninite Pro's audit mode that shows you the apps on each machine and whether they are up-to-date.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/115158813-f09d6800-a044-11eb-9584-702f82734fcd.png">
+  <br />
+</p>
 
 [Chocolatey](https://chocolatey.org/) is a software management solution unlike anything else you've ever experienced on Windows. It focuses on simplicity, security, and infinite scalability.
 
@@ -110,6 +132,12 @@
 
 </p>
 
+[Scoop](https://scoop.sh/) is an open source package manager for Windows 10. It gives Windows users an efficient way to download programs without having to visit each site manually, downloading the files, and running the installer. 
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/115158811-ef6c3b00-a044-11eb-9988-a705d35115ff.png">
+  <br />
+</p>
 
 # Gaming
 
