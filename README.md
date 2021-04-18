@@ -42,9 +42,9 @@
 
 16. [.NET Development](https://github.com/mikeroyal/Windows-10-Guide/blob/main/README.md#net-development)
 
-17. [C# Development](https://github.com/mikeroyal/Windows-10-Guide/blob/main/README.md#c#-development)
+17. [C# Development](https://github.com/mikeroyal/Windows-10-Guide/blob/main/README.md#c-development)
 
-18. [F# Development](https://github.com/mikeroyal/Windows-10-Guide/blob/main/README.md#f#-development)
+18. [F# Development](https://github.com/mikeroyal/Windows-10-Guide/blob/main/README.md#f-development)
 
 19. [PowerShell Development](https://github.com/mikeroyal/Windows-10-Guide/blob/main/README.md#powershell-development)
 
@@ -1831,7 +1831,7 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-L
 [Back to the Top](https://github.com/mikeroyal/Windows-10-Guide/blob/main/README.md#table-of-contents)
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/95128610-89564100-070e-11eb-83de-9697fb490886.png">
+ <img src="https://user-images.githubusercontent.com/45159366/115159443-f6487d00-a047-11eb-8e07-c6ce4c6b768a.png">
   <br />
 </p>
 
