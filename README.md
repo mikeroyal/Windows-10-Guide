@@ -68,7 +68,20 @@
 
 [Windows as a Service (WaaS)](https://docs.microsoft.com/en-us/windows/deployment/update/waas-overview) is a new development concept, introduced with the release of Windows 10. It simplifies the lives of IT professionals and maintains a consistent Windows 10 experience for all Windows customers. These improvements primarily focus on maximizing customer involvement in Windows development, simplifying the deployment and servicing of Windows client computers, and leveling out the resources needed to deploy and maintain Windows over time.
 
+[Windows Virtual Desktop](https://azure.microsoft.com/en-us/services/virtual-desktop/) is a service that enables a secure, remote desktop experience from anywhere.
+
+[Microsoft Dynamics 365](https://dynamics.microsoft.com/en-us/) is the essential business solution for busy professionals who need to engage with customers while staying productive at work and on the go. Arrive prepared for every appointment and update notes, tasks, and attachments. Along with relevant service and sales records.
+
+[Microsoft Intune](https://docs.microsoft.com/en-us/mem/intune/fundamentals/) is a cloud-based service that focuses on mobile device management (MDM) and mobile application management (MAM). Let's you control how your organization's devices are used, including mobile phones, tablets, and laptops. Intune also configures specific policies to control applications.
+
+[Microsoft Edge](https://www.microsoft.com/edge) is a cross-platform web browser developed by Microsoft. It is supported on Windows 10, Xbox, Android, iOS, macOS, and as a [preview for Linux](https://www.microsoftedgeinsider.com/en-us/download/?platform=linux).
+
 [Microsoft Azure](https://azure.microsoft.com) is a public cloud computing platform that comes with solutions developed by Microsoft including Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Windows as a Service (WaaS), and Software as a Service (SaaS) that can be used for services such as analytics, virtual computing, storage, networking, and security.
+
+[VMware Horizon Cloud on Microsoft Azure](https://azure.microsoft.com/en-us/services/virtual-desktop/vmware-horizon-cloud/) is a desktop virtualization service available in Azure Marketplace. Simplify your delivery of on-premises and cloud virtual desktops and applications by connecting your instance of Azure to VMware. 
+
+[Citrix Virtual Apps and Desktops for Azure](https://azure.microsoft.com/en-us/services/virtual-desktop/citrix-virtual-apps-desktops-for-azure/) is a desktop and app virtualization service available through Azure Marketplace or agreements with Citrix. Use familiar tools to manage on-premises Citrix deployments alongside Windows Virtual Desktop on Azure, supporting cloud modernization while maximizing your existing investment. 
+
 
 
 <h3 align="center">
