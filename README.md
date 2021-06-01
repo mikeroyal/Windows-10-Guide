@@ -50,13 +50,21 @@
 
 20. [TypeScript Development](https://github.com/mikeroyal/Windows-10-Guide/blob/main/README.md#typescript-development)
 
-21. [Flutter Development](https://github.com/mikeroyal/Windows-10-Guide/blob/main/README.md#flutter-development)
+21. [React Native Development](https://github.com/mikeroyal/Windows-10-Guide#react-native-development)
 
-22. [Node.js Development](https://github.com/mikeroyal/Windows-10-Guide/blob/main/README.md#nodejs-development)
+22. [ElectronJS Development](https://github.com/mikeroyal/Windows-10-Guide#electronJS-development)
 
-23. [Networking](https://github.com/mikeroyal/Windows-10-Guide/blob/main/README.md#networking)
+23. [C/C++ Development](https://github.com/mikeroyal/Windows-10-Guide#cc-development)
 
-24. [Databases](https://github.com/mikeroyal/Windows-10-Guide/blob/main/README.md#databases)
+24. [Java Development](https://github.com/mikeroyal/Windows-10-Guide#java-development)
+
+25. [Flutter Development](https://github.com/mikeroyal/Windows-10-Guide/blob/main/README.md#flutter-development)
+
+26. [Node.js Development](https://github.com/mikeroyal/Windows-10-Guide/blob/main/README.md#nodejs-development)
+
+27. [Networking](https://github.com/mikeroyal/Windows-10-Guide/blob/main/README.md#networking)
+
+28. [Databases](https://github.com/mikeroyal/Windows-10-Guide/blob/main/README.md#databases)
 
 # Getting Started
 
@@ -83,16 +91,11 @@
 [Citrix Virtual Apps and Desktops for Azure](https://azure.microsoft.com/en-us/services/virtual-desktop/citrix-virtual-apps-desktops-for-azure/) is a desktop and app virtualization service available through Azure Marketplace or agreements with Citrix. Use familiar tools to manage on-premises Citrix deployments alongside Windows Virtual Desktop on Azure, supporting cloud modernization while maximizing your existing investment. 
 
 
-
 <h3 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/109593441-d4aa2b00-7ac5-11eb-87f6-d88772c2ac9f.png">
+ <img src="https://user-images.githubusercontent.com/45159366/120387363-a9aabf80-c2de-11eb-84a5-8e4b422e7546.png">
   Windows 10 Desktop
 </h3>
 
-<h3 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/109593447-d70c8500-7ac5-11eb-9a73-ab9690d5a8e8.png">
-  Windows 10X Desktop
-</h3>
 
 # Getting Software
 
@@ -1980,6 +1983,432 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-L
 [TypeScript ESLint](https://typescript-eslint.io/) is a monorepo for all the tooling which enables ESLint to support TypeScript.
 
 [TS node](https://github.com/TypeStrong/ts-node) is a TypeScript execution and REPL for node.js.
+
+# React Native Development
+[Back to the Top](https://github.com/mikeroyal/Windows-10-Guide#table-of-contents)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/100526624-7ba5c080-317f-11eb-8bf6-6fedf59480e1.png">
+  <br />
+</p>
+
+## React Learning Resources
+
+[React](https://reactjs.org/) is a declarative, efficient, and flexible JavaScript library for building user interfaces.
+
+[Getting Started with React](https://reactjs.org/docs/getting-started.html)
+
+[React JavaScript Tutorial in Visual Studio Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)
+
+[React Community Resources](https://reactjs.org/community/support.html)
+
+[React Courses on Coursera](https://www.coursera.org/courses?query=react)
+
+[React Courses on Udemy](https://www.udemy.com/topic/react/)
+
+[React Nanodegree program on Udacity](https://www.udacity.com/course/react-nanodegree--nd019)
+
+[Becoming a React Developer Learning Path on LinkedIn Learning](https://www.linkedin.com/learning/paths/become-a-react-developer)
+
+[Learning ReactJS on Codecademy](https://www.codecademy.com/learn/react-101)
+
+[React Tutorials and Training Courses on Pluralsight](https://www.pluralsight.com/browse/software-development/react)
+
+[Introduction to React Course on Cloud Academy](https://cloudacademy.com/course/introduction-toreact/development-environment-set-up/)
+
+## React Tools and Frameworks
+
+[WebStorm](https://www.jetbrains.com/webstorm/) is a professional IDE for JavaScript(including support for both HTML and CSS) developed by JetBrains. WebStorm comes with intelligent code completion, on-the-fly error detection, powerful navigation and refactoring for JavaScript, TypeScript, stylesheet languages, and all the most popular frameworks([Angular](https://angular.io/), [React](https://reactjs.org/), [Vue.js](https://vuejs.org/), [Ionic](https://ionicframework.com/), [Apache Cordova](https://cordova.apache.org/), [React Native](https://reactnative.dev/), [Node.js](https://nodejs.org/), [Meteor](https://www.meteor.com/#!), and [Electron](https://www.electronjs.org/)).
+
+[React Native](https://reactnative.dev) is a framework for building native apps for iOS and Android with React.
+
+[Gatsby](https://www.gatsbyjs.com/) is a free and open source framework based on React that helps developers build blazing fast websites and apps.
+
+[React Starter Kit](https://www.reactstarterkit.com/) is an isomorphic web app boilerplate for web development built on top of [Node.js](https://nodejs.org/), [Express](http://expressjs.com/), [GraphQL](http://graphql.org/) and [React](https://facebook.github.io/react/), containing modern web development tools such as [Webpack](https://webpack.github.io/), [Babel](https://babeljs.io/) and [Browsersync](https://www.browsersync.io/). Helping you to stay productive following the best practices.
+
+[React Hook Form](https://react-hook-form.com/) is a performant, flexible and extensible forms with easy to use validation(Web + React Native).
+
+[GraphQL](https://graphql.org/) is a query language for APIs and a runtime for fulfilling those queries with your existing data. It has support in Java, JavaScript, Ruby, Scala, and other programming languages.
+
+[Apollo Client](https://apollographql.com/client) is a fully-featured caching GraphQL client with integrations for React, Angular, and more. It allows you to easily build UI components that fetch data via GraphQL.
+
+[Nest](https://nestjs.com/) is a framework for building efficient, scalable [Node.js](http://nodejs.org/) server-side applications. It uses modern JavaScript, is built with TypeScript (preserves compatibility with pure JavaScript) and combines elements of OOP (Object Oriented Programming), FP (Functional Programming), and FRP (Functional Reactive Programming).
+
+[Meteor](https://www.meteor.com/) is an ultra-simple environment for building modern web applications with JavavScript. 
+
+[mysqljs](https://github.com/mysqljs/mysql) is a pure node.js JavaScript Client implementing the MySQL protocol. 
+
+[axios](https://github.com/axios/axios) is a promise based HTTP client for the browser and node.js.
+
+[Storybook](https://storybook.js.org/) is a development environment for UI components. It allows you to browse a component library, view the different states of each component, and interactively develop and test components.It works with React, Vue, Angular, Ember, and other web frameworks.
+
+[Next.js](https://github.com/vercel/next.js) is a React Framework for production gives you the best developer experience with all the features needed for production such as hybrid static & server rendering, TypeScript support, smart bundling, route pre-fetching, and more.
+
+[React Boilerplate](https://www.reactboilerplate.com/) is a highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
+
+[TypeORM](https://github.com/typeorm/typeorm) is an ORM that can run in NodeJS, Browser, Cordova, PhoneGap, Ionic, React Native, NativeScript, Expo, and Electron platforms and can be used with TypeScript and JavaScript (ES5, ES6, ES7, ES8).
+
+[Enzyme](https://github.com/enzymejs/enzyme) is a JavaScript Testing utility for React that makes it easier to test your React Components' output. The user can also manipulate, traverse, and in some ways simulate runtime given the output.
+
+[RxDB](https://github.com/pubkey/rxdb) is a NoSQL-database for JavaScript Applications like Websites, hybrid Apps, Electron-Apps, Progressive Web Apps and NodeJs. 
+
+[Redux](https://github.com/reduxjs/redux) is a predictable state container for JavaScript apps. 
+
+[Inferno](https://infernojs.org/) is an insanely fast, React-like library for building high-performance user interfaces on both the client and server.
+
+[Expo](https://github.com/expo/expo) is an open-source platform for making universal native apps with React.
+
+[React Native Windows](https://microsoft.github.io/react-native-windows/) is a ramework for building native Windows apps with React. [React Native](https://reactnative.dev/) is a framework developed by Facebook that enables you to build world-class application experiences on native platforms using a consistent developer experience based on JavaScript and React. 
+
+[ReactiveUI](https://reactiveui.net/) is a composable, cross-platform model-view-viewmodel framework for all .NET platforms that is inspired by functional reactive programming, which is a paradigm that allows you to abstract mutable state away from your user interfaces and express the idea around a feature in one readable place and improve the testability of your application.
+
+[Ant Design](https://ant.design/) is an enterprise-class UI design language and React UI library.
+
+[Material-UI](https://material-ui.com/) is a collection of [React](https://reactjs.org/) components for faster and simpler web development. 
+
+[Chakra UI](https://chakra-ui.com/) is  a set of accessible, reusable, and composable React components that make it super easy to create websites and apps.
+
+# Electron Development
+[Back to the Top](https://github.com/mikeroyal/Windows-10-Guide#table-of-contents)
+<p align="center">
+ <img src="">
+  <br />
+</p>
+
+
+# Electron Learning Resources
+
+[Electron](https://electronjs.org/) is a framework lets you write cross-platform desktop applications using JavaScript, HTML and CSS. It is based on [Node.js](https://nodejs.org/) and [Chromium](https://www.chromium.org/) and is used by the [Atom editor](https://github.com/atom/atom) and many other [apps](https://electronjs.org/apps).
+
+[The OpenJS Foundation](https://openjsf.org/) is made up of 32 open source JavaScript projects including Appium, Dojo, Electron, jQuery, Node.js, and webpack. The foundation's mission is to support the healthy growth of JavaScript and web technologies by providing a neutral organization to host and sustain projects, as well as collaboratively fund activities that benefit the ecosystem as a whole.
+
+[Electron Apps](https://www.electronjs.org/apps)
+
+[Getting Started with Electron](https://www.electronjs.org/docs/tutorial/quick-start)
+
+[Electron Development](https://www.electronjs.org/docs/development)
+
+[Configuring JavaScript libraries in WebStorm](https://www.jetbrains.com/help/webstorm/configuring-javascript-libraries.html)
+
+[JavaScript in Visual Studio Code](https://code.visualstudio.com/Docs/languages/javascript)
+
+[JavaScript extensions for VS Code](https://code.visualstudio.com/docs/nodejs/extensions)
+
+[Master Electron: Desktop Apps with HTML, JavaScript & CSS course on Udemy](https://www.udemy.com/course/master-electron/)
+
+[Electron for Desktop Apps: The Complete Developer's Guide course on Udemy](https://www.udemy.com/course/electron-react-tutorial/)
+
+[Electron From Scratch: Build Desktop Apps With JavaScript course on Udemy](https://www.udemy.com/course/electron-from-scratch/)
+
+[Electron Courses on Coursera](https://www.coursera.org/courses?query=electron+js)
+
+[Electron Fundamentals on Pluralsight](https://www.pluralsight.com/courses/electron-fundamentals)
+
+
+# Electron Tools, Libraries, and Frameworks
+
+[Electron Fiddle](https://electronjs.org/fiddle) is an application that lets you create and play with small Electron experiments. It greets you with a simple quick start template after opening. Simply choose the version of Electron you want to run with your project and then play around.
+
+[Electron Builder](https://www.electron.build/) is a complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box.
+
+[Photon](https://github.com/connors/photon) is a UI toolkit for building desktop apps with Electron.
+
+[Electron.NET](https://github.com/ElectronNET/Electron.NET) is an application that builds cross platform desktop apps with ASP.NET Core (Razor Pages, MVC, Blazor).
+
+[Angular Electron](https://github.com/maximegris/angular-electron) is an application that bootstrap's and package's your project with Angular 11 and Electron 11 (Typescript + SASS + Hot Reload) for creating Desktop applications.
+
+[Selenium](https://selenium.dev/) is a browser automation framework and ecosystem. Selenium specifically provides an infrastructure for the [W3C WebDriver specification](https://w3c.github.io/webdriver/) as a platform and language-neutral coding interface compatible with all major web browsers(Firefox, Google Chrome and Safari).
+
+[Selenium IDE](https://selenium.dev/selenium-ide/) is an Open Source record and playback test automation for the web.
+
+[GitHub Codespaces](https://docs.github.com/en/free-pro-team@latest/github/developing-online-with-codespaces) is an integrated development environment(IDE) on GitHub. That allows developers to develop entirely in the cloud using Visual Studio and Visual Studio Code.
+  
+[GitHub Actions](https://docs.github.com/en/actions) will automate, customize, and execute your software development workflows right in your repository with GitHub Actions. You can discover, create, and share actions to perform any job you'd like, including CI/CD, and combine actions in a completely customized workflow.[GitHub Actions for Azure](https://docs.microsoft.com/en-us/azure/developer/github/github-actions) you can create workflows that you can set up in your repository to build, test, package, release and deploy to Azure.Learn more about all other integrations with Azure.
+
+[WebStorm](https://www.jetbrains.com/webstorm/) is a professional IDE for JavaScript(including support for both HTML and CSS) developed by JetBrains. WebStorm comes with intelligent code completion, on-the-fly error detection, powerful navigation and refactoring for JavaScript, TypeScript, stylesheet languages, and all the most popular frameworks([Angular](https://angular.io/), [React](https://reactjs.org/), [Vue.js](https://vuejs.org/), [Ionic](https://ionicframework.com/), [Apache Cordova](https://cordova.apache.org/), [React Native](https://reactnative.dev/), [Node.js](https://nodejs.org/), [Meteor](https://www.meteor.com/#!), and [Electron](https://www.electronjs.org/)).
+
+[Visual Studio Code](https://code.visualstudio.com/) is a code editor redefined and optimized for building and debugging modern web and cloud applications.
+
+[GraphQL](https://graphql.org/) is a query language for APIs and a runtime for fulfilling those queries with your existing data. It has support in Java, JavaScript, Ruby, Scala, and other programming languages.
+
+[TypeORM](https://github.com/typeorm/typeorm) is an ORM that can run in NodeJS, Browser, Cordova, PhoneGap, Ionic, React Native, NativeScript, Expo, and Electron platforms and can be used with TypeScript and JavaScript (ES5, ES6, ES7, ES8).
+
+[Nest](https://nestjs.com/) is a framework for building efficient, scalable [Node.js](http://nodejs.org/) server-side applications. It uses modern JavaScript, is built with TypeScript (preserves compatibility with pure JavaScript) and combines elements of OOP (Object Oriented Programming), FP (Functional Programming), and FRP (Functional Reactive Programming).
+
+[Quasar](https://quasar.dev/) is a framework that builds high-performance VueJS user interfaces in record time. Such as responsive Single Page Apps, SSR Apps, PWAs, Browser extensions, Hybrid Mobile Apps and Electron Apps.
+
+[Gatsby](https://www.gatsbyjs.com/) is a free and open source framework based on React that helps developers build blazing fast websites and apps.
+
+[React Starter Kit](https://www.reactstarterkit.com/) is an isomorphic web app boilerplate for web development built on top of [Node.js](https://nodejs.org/), [Express](http://expressjs.com/), [GraphQL](http://graphql.org/) and [React](https://facebook.github.io/react/), containing modern web development tools such as [Webpack](https://webpack.github.io/), [Babel](https://babeljs.io/) and [Browsersync](https://www.browsersync.io/). Helping you to stay productive following the best practices.
+
+[Enzyme](https://github.com/enzymejs/enzyme) is a JavaScript Testing utility for React that makes it easier to test your React Components' output. The user can also manipulate, traverse, and in some ways simulate runtime given the output.
+
+[Mocha](https://github.com/mochajs/mocha) is a simple, flexible, fun JavaScript test framework for Node.js & The Browser.
+
+[Express](https://expressjs.com/) is a fast, unopinionated, minimalist web framework for node.
+
+[Meteor](https://www.meteor.com/) is an ultra-simple environment for building modern web applications with JavavScript. 
+
+[RxDB](https://github.com/pubkey/rxdb) is a NoSQL-database for JavaScript Applications like Websites, hybrid Apps, Electron-Apps, Progressive Web Apps and NodeJs. 
+
+[Redux](https://github.com/reduxjs/redux) is a predictable state container for JavaScript apps.
+
+[Standard](https://standardjs.com/) is a JavaScript Style Guide, with linter & automatic code fixer.
+
+[Lowdb](https://github.com/typicode/lowdb) is a small local JSON database powered by Lodash (supports Node, Electron and the browser).
+
+[Nativefier](https://github.com/jiahaog/nativefier) is an application that lets you make any web page into a desktop electron application.
+
+# C/C++ Development
+[Back to the Top](https://github.com/mikeroyal/Windows-10-Guide#table-of-contents)
+
+<h1 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/115297894-961e0d80-a111-11eb-81c3-e2bd2ac9a7cd.png">
+  <br />
+</h1>
+
+
+## C/C++ Learning Resources
+
+[C++](https://www.cplusplus.com/doc/tutorial/) is a cross-platform language that can be used to build high-performance applications developed by Bjarne Stroustrup, as an extension to the C language.
+
+[C](https://www.iso.org/standard/74528.html) is a general-purpose, high-level language that was originally developed by Dennis M. Ritchie to develop the UNIX operating system at Bell Labs. It supports structured programming, lexical variable scope, and recursion, with a static type system. C also provides constructs that map efficiently to typical machine instructions, which makes it one was of the most widely used programming languages today.
+
+[Embedded C](https://en.wikipedia.org/wiki/Embedded_C) is a set of language extensions for the C programming language by the [C Standards Committee](https://isocpp.org/std/the-committee) to address issues that exist between C extensions for different [embedded systems](https://en.wikipedia.org/wiki/Embedded_system). The extensions hep enhance microprocessor features such as fixed-point arithmetic, multiple distinct memory banks, and basic I/O operations. This makes Embedded C the most popular embedded software language in the world.
+
+[C & C++ Developer Tools from JetBrains](https://www.jetbrains.com/cpp/)
+
+[Open source C++ libraries on cppreference.com](https://en.cppreference.com/w/cpp/links/libs)
+
+[C++ Graphics libraries](https://cpp.libhunt.com/libs/graphics)
+
+[C++ Libraries in MATLAB](https://www.mathworks.com/help/matlab/call-cpp-library-functions.html)
+
+[C++ Tools and Libraries Articles](https://www.cplusplus.com/articles/tools/)
+
+[Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+
+[Introduction C++ Education course on Google Developers](https://developers.google.com/edu/c++/)
+
+[C++ style guide for Fuchsia](https://fuchsia.dev/fuchsia-src/development/languages/c-cpp/cpp-style)
+
+[C and C++ Coding Style Guide by OpenTitan](https://docs.opentitan.org/doc/rm/c_cpp_coding_style/)
+
+[Chromium C++ Style Guide](https://chromium.googlesource.com/chromium/src/+/master/styleguide/c++/c++.md)
+
+[C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
+
+[C++ Style Guide for ROS](http://wiki.ros.org/CppStyleGuide)
+
+[Learn C++](https://www.learncpp.com/)
+
+[Learn C : An Interactive C Tutorial](https://www.learn-c.org/)
+
+[C++ Institute](https://cppinstitute.org/free-c-and-c-courses)
+
+[C++ Online Training Courses on LinkedIn Learning](https://www.linkedin.com/learning/topics/c-plus-plus)
+
+[C++ Tutorials on W3Schools](https://www.w3schools.com/cpp/default.asp)
+
+[Learn C Programming Online Courses on edX](https://www.edx.org/learn/c-programming)
+
+[Learn C++ with Online Courses on edX](https://www.edx.org/learn/c-plus-plus)
+
+[Learn C++ on Codecademy](https://www.codecademy.com/learn/learn-c-plus-plus)
+
+[Coding for Everyone: C and C++ course on Coursera](https://www.coursera.org/specializations/coding-for-everyone)
+
+[C++ For C Programmers on Coursera](https://www.coursera.org/learn/c-plus-plus-a)
+
+[Top C Courses on Coursera](https://www.coursera.org/courses?query=c%20programming)
+
+[C++ Online Courses on Udemy](https://www.udemy.com/topic/c-plus-plus/)
+
+[Top C Courses on Udemy](https://www.udemy.com/topic/c-programming/)
+
+[Basics of Embedded C Programming for Beginners on Udemy](https://www.udemy.com/course/embedded-c-programming-for-embedded-systems/)
+
+[C++ For Programmers Course on Udacity](https://www.udacity.com/course/c-for-programmers--ud210)
+
+[C++ Fundamentals Course on Pluralsight](https://www.pluralsight.com/courses/learn-program-cplusplus)
+
+[Introduction to C++ on MIT Free Online Course Materials](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/)
+
+[Introduction to C++ for Programmers | Harvard ](https://online-learning.harvard.edu/course/introduction-c-programmers)
+
+[Online C Courses | Harvard University](https://online-learning.harvard.edu/subject/c)
+
+
+## C/C++ Tools, Libraries, and Frameworks
+
+[AWS SDK for C++](https://aws.amazon.com/sdk-for-cpp/)
+
+[Azure SDK for C++](https://github.com/Azure/azure-sdk-for-cpp)
+
+[Azure SDK for C](https://github.com/Azure/azure-sdk-for-c)
+
+[C++ Client Libraries for Google Cloud Services](https://github.com/googleapis/google-cloud-cpp)
+
+[Visual Studio](https://visualstudio.microsoft.com/) is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.
+
+[Visual Studio Code](https://code.visualstudio.com/) is a code editor redefined and optimized for building and debugging modern web and cloud applications.
+
+[Vcpkg](https://github.com/microsoft/vcpkg) is a C++ Library Manager for Windows, Linux, and MacOS.
+
+[ReSharper C++](https://www.jetbrains.com/resharper-cpp/features/) is a Visual Studio Extension for C++ developers developed by JetBrains.
+
+[AppCode](https://www.jetbrains.com/objc/) is constantly monitoring the quality of your code. It warns you of errors and smells and suggests quick-fixes to resolve them automatically. AppCode provides lots of code inspections for Objective-C, Swift, C/C++, and a number of code inspections for other supported languages. All code inspections are run on the fly.
+
+[CLion](https://www.jetbrains.com/clion/features/) is a cross-platform IDE for C and C++ developers developed by JetBrains.
+
+[Code::Blocks](https://www.codeblocks.org/) is a free C/C++ and Fortran IDE built to meet the most demanding needs of its users. It is designed to be very extensible and fully configurable. Built around a plugin framework, Code::Blocks can be extended with plugins.
+
+[CppSharp](https://github.com/mono/CppSharp) is a tool and set of libraries which facilitates the usage of native C/C++ code with the .NET ecosystem. It consumes C/C++ header and library files and generates the necessary glue code to surface the native API as a managed API. Such an API can be used to consume an existing native library in your managed code or add managed scripting support to a native codebase.
+
+[Conan](https://conan.io/) is an Open Source Package Manager for C++ development and dependency management into the 21st century and on par with the other development ecosystems. 
+
+[High Performance Computing (HPC) SDK](https://developer.nvidia.com/hpc) is a comprehensive toolbox for GPU accelerating HPC modeling and simulation applications. It includes the C, C++, and Fortran compilers, libraries, and analysis tools necessary for developing HPC applications on the NVIDIA platform.
+
+[Thrust](https://github.com/NVIDIA/thrust) is a C++ parallel programming library which resembles the C++ Standard Library. Thrust's high-level interface greatly enhances programmer productivity while enabling performance portability between GPUs and multicore CPUs. Interoperability with established technologies such as CUDA, TBB, and OpenMP integrates with existing software.
+
+[Boost](https://www.boost.org/) is an educational opportunity focused on cutting-edge C++. Boost has been a participant in the annual Google Summer of Code since 2007, in which students develop their skills by working on Boost Library development.
+
+[Automake](https://www.gnu.org/software/automake/) is a tool for automatically generating Makefile.in files compliant with the GNU Coding Standards. Automake requires the use of GNU Autoconf.
+
+[Cmake](https://cmake.org/) is an open-source, cross-platform family of tools designed to build, test and package software. CMake is used to control the software compilation process using simple platform and compiler independent configuration files, and generate native makefiles and workspaces that can be used in the compiler environment of your choice.
+
+[GDB](http://www.gnu.org/software/gdb/) is a debugger, that allows you to see what is going on `inside' another program while it executes or what another program was doing at the moment it crashed. 
+
+[GCC](https://gcc.gnu.org/) is a compiler Collection that includes front ends for C, C++, Objective-C, Fortran, Ada, Go, and D, as well as libraries for these languages.
+
+[GSL](https://www.gnu.org/software/gsl/) is a numerical library for C and C++ programmers. It is free software under the GNU General Public License. The library provides a wide range of mathematical routines such as random number generators, special functions and least-squares fitting. There are over 1000 functions in total with an extensive test suite.
+
+[OpenGL Extension Wrangler Library (GLEW)](https://www.opengl.org/sdk/libs/GLEW/) is a cross-platform open-source C/C++ extension loading library. GLEW provides efficient run-time mechanisms for determining which OpenGL extensions are supported on the target platform.
+
+[Libtool](https://www.gnu.org/software/libtool/) is a generic library support script that hides the complexity of using shared libraries behind a consistent, portable interface. To use Libtool, add the new generic library building commands to your Makefile, Makefile.in, or Makefile.am.
+
+[Maven](https://maven.apache.org/) is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information.
+
+[TAU (Tuning And Analysis Utilities)](http://www.cs.uoregon.edu/research/tau/home.php) is capable of gathering performance information through instrumentation of functions, methods, basic blocks, and statements as well as event-based sampling. All C++ language features are supported including templates and namespaces.
+
+[Clang](https://clang.llvm.org/) is a production quality C, Objective-C, C++ and Objective-C++ compiler when targeting X86-32, X86-64, and ARM (other targets may have caveats, but are usually easy to fix). Clang is used in production to build performance-critical software like Google Chrome or Firefox.
+
+[OpenCV](https://opencv.org/) is a highly optimized library with focus on real-time applications. Cross-Platform C++, Python and Java interfaces support Linux, MacOS, Windows, iOS, and Android.
+
+[Libcu++](https://nvidia.github.io/libcudacxx) is the NVIDIA C++ Standard Library for your entire system. It provides a heterogeneous implementation of the C++ Standard Library that can be used in and between CPU and GPU code.
+
+[ANTLR (ANother Tool for Language Recognition)](https://www.antlr.org/) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. It's widely used to build languages, tools, and frameworks. From a grammar, ANTLR generates a parser that can build parse trees and also generates a listener interface that makes it easy to respond to the recognition of phrases of interest.
+
+[Oat++](https://oatpp.io/) is a light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.
+
+[JavaCPP](https://github.com/bytedeco/javacpp) is a program that provides efficient access to native C++ inside Java, not unlike the way some C/C++ compilers interact with assembly language. 
+
+[Cython](https://cython.org/) is a language that makes writing C extensions for Python as easy as Python itself. Cython is based on Pyrex, but supports more cutting edge functionality and optimizations such as calling C functions and declaring C types on variables and class attributes.
+
+[Spdlog](https://github.com/gabime/spdlog) is a very fast, header-only/compiled, C++ logging library. 
+
+[Infer](https://fbinfer.com/) is a static analysis tool for Java, C++, Objective-C, and C. Infer is written in [OCaml](https://ocaml.org/).
+
+# Java Development
+[Back to the Top](https://github.com/mikeroyal/Windows-10-Guide#table-of-contents)
+
+<h1 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/93925952-c0b6fd80-fccb-11ea-9f90-21c4148e3c86.png">
+  <br />
+</h1>
+
+## Java Learning Resources
+
+[Java](https://www.oracle.com/java/) is a popular programming language and development platform(JDK). It reduces costs, shortens development timeframes, drives innovation, and improves application services. With millions of developers running more than 51 billion Java Virtual Machines worldwide.
+
+[The Eclipse Foundation](https://www.eclipse.org/downloads/) is home to a worldwide community of developers, the Eclipse IDE, Jakarta EE and over 375 open source projects, including runtimes, tools and frameworks for Java and other languages.
+
+[Getting Started with Java](https://docs.oracle.com/javase/tutorial/)
+
+[Oracle Java certifications from Oracle University](https://education.oracle.com/java-certification-benefits)
+
+[Google Developers Training](https://developers.google.com/training/)
+
+[Google Developers Certification](https://developers.google.com/certification/)
+
+[Java Tutorial by W3Schools](https://www.w3schools.com/java/)
+
+[Building Your First Android App in Java](codelabs.developers.google.com/codelabs/build-your-first-android-app/)
+
+[Getting Started with Java in Visual Studio Code](https://code.visualstudio.com/docs/java/java-tutorial)
+
+[Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
+
+[AOSP Java Code Style for Contributors](https://source.android.com/setup/contribute/code-style)
+
+[Chromium Java style guide](https://chromium.googlesource.com/chromium/src/+/master/styleguide/java/java.md)
+
+[Get Started with OR-Tools for Java](https://developers.google.com/optimization/introduction/java)
+
+[Getting started with Java Tool Installer task for Azure Pipelines](https://docs.microsoft.com/en-us/azure/devops/pipelines/tasks/tool/java-tool-installer)
+
+[Gradle User Manual](https://docs.gradle.org/current/userguide/userguide.html)
+
+## Java Tools and Frameworks
+
+[Java SE](https://www.oracle.com/java/technologies/javase/tools-jsp.html) contains several tools to assist in program development and debugging, and in the monitoring and troubleshooting of production applications. 
+
+[JDK Development Tools](https://docs.oracle.com/javase/7/docs/technotes/tools/) includes the Java Web Start Tools (javaws) Java Troubleshooting, Profiling, Monitoring and Management Tools (jcmd, jconsole, jmc, jvisualvm); and Java Web Services Tools (schemagen, wsgen, wsimport, xjc).
+
+[Android Studio](https://developer.android.com/studio/) is the official integrated development environment for Google's Android operating system, built on JetBrains' IntelliJ IDEA software and designed specifically for Android development. Availble on Windows, macOS, Linux, Chrome OS.
+
+[IntelliJ IDEA](https://www.jetbrains.com/idea/) is an IDE for Java, but it also understands and provides intelligent coding assistance for a large variety of other languages such as Kotlin, SQL, JPQL, HTML, JavaScript, etc., even if the language expression is injected into a String literal in your Java code.
+
+[NetBeans](https://netbeans.org/features/java/index.html) is an IDE provides Java developers with all the tools needed to create professional desktop, mobile and enterprise applications. Creating, Editing, and Refactoring. The IDE provides wizards and templates to let you create Java EE, Java SE, and Java ME applications.
+
+[Java Design Patterns ](https://github.com/iluwatar/java-design-patterns) is a collection of the best formalized practices a programmer can use to solve common problems when designing an application or system.
+
+[Elasticsearch](https://www.elastic.co/products/elasticsearch) is a distributed RESTful search engine built for the cloud written in Java.
+
+[RxJava](https://github.com/ReactiveX/RxJava) is a Java VM implementation of [Reactive Extensions](http://reactivex.io/): a library for composing asynchronous and event-based programs by using observable sequences. It extends the [observer pattern](http://en.wikipedia.org/wiki/Observer_pattern) to support sequences of data/events and adds operators that allow you to compose sequences together declaratively while abstracting away concerns about things like low-level threading, synchronization, thread-safety and concurrent data structures.
+
+[Guava](https://github.com/google/guava) is a set of core Java libraries from Google that includes new collection types (such as multimap and multiset), immutable collections, a graph library, and utilities for concurrency, I/O, hashing, caching, primitives, strings, and more! It is widely used on most Java projects within Google, and widely used by many other companies as well.
+
+[okhttp](https://square.github.io/okhttp/) is a HTTP client for Java and Kotlin developed by Square. 
+
+[Retrofit](https://square.github.io/retrofit/) is a type-safe HTTP client for Android and Java develped by Square.
+
+[LeakCanary](https://square.github.io/leakcanary/) is a memory leak detection library for Android develped by Square.
+
+[Apache Spark](https://spark.apache.org/) is a unified analytics engine for large-scale data processing. It provides high-level APIs in Scala, Java, Python, and R, and an optimized engine that supports general computation graphs for data analysis. It also supports a rich set of higher-level tools including Spark SQL for SQL and DataFrames, MLlib for machine learning, GraphX for graph processing, and Structured Streaming for stream processing.
+
+[Apache Flink](https://flink.apache.org/) is an open source stream processing framework with powerful stream- and batch-processing capabilities with elegant and fluent APIs in Java and Scala.
+
+[Fastjson](https://github.com/alibaba/fastjson/wiki) is a Java library that can be used to convert Java Objects into their JSON representation. It can also be used to convert a JSON string to an equivalent Java object.
+
+[libGDX](https://libgdx.com/) is a cross-platform Java game development framework based on OpenGL (ES) that works on Windows, Linux, Mac OS X, Android, your WebGL enabled browser and iOS.
+
+[Jenkins](https://www.jenkins.io/) is the leading open-source automation server. Built with Java, it provides over 1700 [plugins](https://plugins.jenkins.io/) to support automating virtually anything, so that humans can actually spend their time doing things machines cannot.
+
+[DBeaver](https://dbeaver.io/) is a free multi-platform database tool for developers, SQL programmers, database administrators and analysts. Supports any database which has JDBC driver (which basically means - ANY database). EE version also supports non-JDBC datasources (MongoDB, Cassandra, Redis, DynamoDB, etc).
+
+[Redisson](https://redisson.pro/) is a Redis Java client with features of In-Memory Data Grid. Over 50 Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, MyBatis, RPC, and local cache.
+
+[GraalVM](https://www.graalvm.org/) is a universal virtual machine for running applications written in JavaScript, Python, Ruby, R, JVM-based languages like Java, Scala, Clojure, Kotlin, and LLVM-based languages such as C and C++.
+
+[Gradle](https://gradle.org/) is a build automation tool for multi-language software development. From mobile apps to microservices, from small startups to big enterprises, Gradle helps teams build, automate and deliver better software, faster. Write in Java, C++, Python or your language of choice. 
+
+[Apache Groovy](http://www.groovy-lang.org/) is a powerful, optionally typed and dynamic language, with static-typing and static compilation capabilities, for the Java platform aimed at improving developer productivity thanks to a concise, familiar and easy to learn syntax. It integrates smoothly with any Java program, and immediately delivers to your application powerful features, including scripting capabilities, Domain-Specific Language authoring, runtime and compile-time meta-programming and functional programming. 
+
+[JaCoCo](https://www.jacoco.org/jacoco/) is a free code coverage library for Java, which has been created by the EclEmma team based on the lessons learned from using and integration existing libraries for many years.
+
+[Apache JMeter](http://jmeter.apache.org/) is  used to test performance both on static and dynamic resources, Web dynamic applications. It also used to simulate a heavy load on a server, group of servers, network or object to test its strength or to analyze overall performance under different load types.
+
+[Junit](https://junit.org/) is a simple framework to write repeatable tests. It is an instance of the xUnit architecture for unit testing frameworks.
+
+[Mockito](https://site.mockito.org/) is the most popular Mocking framework for unit tests written in Java.
+
+[SpotBugs](https://spotbugs.github.io/) is a program which uses static analysis to look for bugs in Java code.
+
+[SpringBoot](https://spring.io/projects/spring-boot) is a great tool that helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss. It takes an opinionated view of the Spring platform so that new and existing users can quickly get to the bits they need.
+
+[YourKit](https://www.yourkit.com/) is a technology leader, creator of the most innovative and intelligent tools for profiling Java & .NET applications.
+
 
 # Flutter Development
 
