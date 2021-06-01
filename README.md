@@ -52,7 +52,7 @@
 
 21. [React Native Development](https://github.com/mikeroyal/Windows-10-Guide#react-native-development)
 
-22. [ElectronJS Development](https://github.com/mikeroyal/Windows-10-Guide#electronJS-development)
+22. [ElectronJS Development](https://github.com/mikeroyal/Windows-10-Guide#electron-development)
 
 23. [C/C++ Development](https://github.com/mikeroyal/Windows-10-Guide#cc-development)
 
