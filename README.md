@@ -105,15 +105,7 @@
 
 [Back to the Top](https://github.com/mikeroyal/Windows-10-Guide/blob/main/README.md#table-of-contents)
 
-[Microsoft Store](https://www.microsoft.com/en-us/store/apps/windows)
-
-[Top free apps in Microsoft Store](https://www.microsoft.com/en-us/store/top-free/apps/pc)
-
-[Top paid apps in Microsoft Store](https://www.microsoft.com/en-us/store/top-paid/apps/pc)
-
- <img src="https://user-images.githubusercontent.com/45159366/111085833-66f2fb80-84d6-11eb-8a86-3929452b281e.png">
-
-[Windows Package Manager (preview)](https://docs.microsoft.com/en-us/windows/package-manager/) is a comprehensive [package manager solution](https://docs.microsoft.com/en-us/windows/package-manager/#understanding-package-managers) that consists of a command line tool and set of services for installing applications on Windows 10. Developers can use the winget command line tool to discover, install, upgrade, remove and configure a curated set of applications. After it is installed, developers can access winget via the [Windows Terminal](https://docs.microsoft.com/en-us/windows/terminal/), [PowerShell](https://docs.microsoft.com/en-us/powershell/), or the Command Prompt.
+[Windows Package Manager](https://docs.microsoft.com/en-us/windows/package-manager/) is a comprehensive [package manager solution](https://docs.microsoft.com/en-us/windows/package-manager/#understanding-package-managers) that consists of a command line tool and set of services for installing applications on Windows 10. Developers can use the winget command line tool to discover, install, upgrade, remove and configure a curated set of applications. After it is installed, developers can access winget via the [Windows Terminal](https://docs.microsoft.com/en-us/windows/terminal/), [PowerShell](https://docs.microsoft.com/en-us/powershell/), or the Command Prompt.
 
 **[Using the winget tool to install and manage software packages](https://docs.microsoft.com/en-us/windows/package-manager/winget/)**
 
