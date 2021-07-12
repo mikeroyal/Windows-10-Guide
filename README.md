@@ -98,6 +98,8 @@
 
 [Secure boot](https://docs.microsoft.com/en-us/windows-hardware/design/device-experiences/oem-secure-boot) is a security standard developed by members of the PC industry to help make sure that a device boots(Unified Extensible Firmware Interface (UEFI) BIOS) using only software(such as bootloaders, OS, UEFI drivers, and utilities) that is trusted by the Original Equipment Manufacturer (OEM).
 
+[Microsoft Defender Security Center](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/microsoft-defender-security-center?view=o365-worldwide) is a user portal where you can access Microsoft Defender for Endpoint capabilities. It gives enterprise security operations teams a single pane of glass experience to help secure networks.
+
 [BitLocker Drive Encryption](https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview) is a data protection feature that integrates with the operating system and addresses the threats of data theft or exposure from lost, stolen, or inappropriately decommissioned computers. BitLocker provides the most protection when used with a Trusted Platform Module (TPM) version 1.2 or later.
 
 
